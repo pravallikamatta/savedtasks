@@ -1,0 +1,43 @@
+.container{
+    display: grid;
+    grid-template-columns: 100px 400px;
+    grid-template-rows: 40px;
+     background-color:blanchedalmond;
+     width: 515px;
+     height: 40px;
+     gap: 15px;
+      text-align: center;
+      font-weight: bolder;
+     border-radius: 10px;
+}
+#box1,#box2{
+    border: 1px solid;
+}
+#box3,#box4{
+    background-color:rgb(253, 200, 208);
+     grid-column: 1;
+     height: 150px;
+     width: 160px;
+ 
+     text-align: center;
+     font-weight: bolder;
+}
+#box5{
+background-color: rgb(207, 227, 165);
+align-items: center;
+height: 300px;
+position: relative;
+bottom: 160px;
+left: 70px;
+border-radius: 20px;
+ 
+font-weight: bolder;
+}
+#box6{
+     position: relative;
+     bottom: 120px;
+     left: 200px;
+     background-color: rgb(213, 213, 251);
+     height:50px ;
+     width: 400px;
+     border-radius: 20px;

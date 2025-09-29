@@ -1,0 +1,30 @@
+\*{
+    background-color: black;
+}
+.container{
+     color: aliceblue;
+     display: grid;
+     grid-template-columns: 100px 100px 100px 100px 100px;
+     padding-left: 190px;
+}
+button{
+    background-color: aqua;
+    height: 50px;
+    width: 140px;
+    position: relative;
+    bottom: 300px;
+    left: 1000px;
+}
+img{
+    position: relative;
+    top: 80px;
+    right: 70px;
+    height: 343px;
+    border-radius: 10%;
+}
+H1{
+    color: antiquewhite;
+    border: 1px;
+    text-align: center;
+    
+}

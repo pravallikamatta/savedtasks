@@ -1,0 +1,21 @@
+*{
+    background-color: rgb(109, 197, 219);
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    font-weight: 800;
+ font-family:Georgia, 'Times New Roman', Times, serif ;
+}
+li{
+    background-color: blanchedalmond;
+}
+#dam {
+    color: darkblue;
+    text-align: left;
+    text-decoration: dotted;
+}
+.cls {
+    color: deeppink;
+    background-color: indigo;
+}
